@@ -1,0 +1,10 @@
+{
+    "name":"EM2 Style Mickey",
+    "description":"Makes Mickey look like his Epic Mickey 2 appearance, using the textures from EM2!",
+    "dependencies":[],
+    "platform": "wii",
+    "game":"EM1",
+    "custom_textures_path": "custom_textures",
+    "custom_game_files_path": "custom_files",
+    "icon_path": "icon.png"
+}
